@@ -1,0 +1,17 @@
+Que:14
+What are negative indexes and why are they used?
+answer :- Negative Indexing is used to in Python to begin slicing from the end of the string 	i.e. the last. Slicing in Python gets a sub-string from a string. 
+The slicing range is set as parameters i.e. start, stop, and step.
+Negative indexing is used in Python to manipulate sequence objects such as lists, arrays, strings, etc.
+
+Que:5
+What is the purpose continue statement in python?
+Answer:- In Python, the continue statement is used within loops (such as for loops and while loops) to skip the rest of the current iteration and move on to the next iteration. 
+When the continue statement is encountered, the code inside the loop's 	body after the continue statement is skipped, and the loop's control immediately goes to the next iteration.
+
+Que:4
+How memory is managed in Python?
+Ans:
+When you create objects in Python, memory is allocated to store their data and attributes. 
+The Python interpreter's memory manager handles this allocation.        
+The actual memory allocation strategy may differ depending on the object type.14
