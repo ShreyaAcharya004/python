@@ -3,7 +3,7 @@ def insert_in_middle(basse_string, insert_string):
     middle_index = len(base_string) // 2
     return base_string[:middle_index] + insert_string + base_string[middle_index:]
 
-# Example usage:
+# add examples
 original_string = "shreya acharya"
 inserted_string = "123"
 result = insert_in_middle(original_string, inserted_string)
