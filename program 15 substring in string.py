@@ -1,3 +1,4 @@
+# Write a Python program to count occurrences of a substring in a string.
 def counting(str,str2):
     count=str.lower().count(str2.lower())
     return count
